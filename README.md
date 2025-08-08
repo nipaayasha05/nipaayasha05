@@ -16,9 +16,8 @@
 ## About Me  
 I'm a passionate Frontend Developer skilled in React.js, Tailwind CSS, Firebase, Node.js, and MongoDB. 
 
-####Current Activities:  
-- Exploring Next.js to enhance my React development skills
-
+## Current Activities  
+- Exploring Next.js to build scalable and optimized web applications
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipaayasha05&show_icons=true&locale=en&layout=compact" alt="nipaayasha05" /></p>
 
