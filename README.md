@@ -16,7 +16,7 @@
 ## About Me  
 I'm a passionate Frontend Developer skilled in React.js, Tailwind CSS, Firebase, Node.js, and MongoDB. 
 
-**Current Activities:**  
+####Current Activities:  
 - Exploring Next.js to enhance my React development skills
 
 
