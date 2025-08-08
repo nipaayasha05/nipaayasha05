@@ -18,6 +18,14 @@ I'm a passionate Frontend Developer skilled in React.js, Tailwind CSS, Firebase,
 
 ## Current Activities  
 - Exploring Next.js to build scalable and optimized web applications
+  
+## Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipaayasha05&show_icons=true&locale=en&layout=compact" alt="nipaayasha05" /></p>
 
