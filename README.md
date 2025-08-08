@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/6cxQp9jK/Business-Continuity-Recovery-Services-1.png)
+![Banner](https://i.ibb.co.com/TqFmVKQw/github-banner1.png)
 
 <h1 align="center">Hi 👋, I'm Nipa</h1>
 <h3 align="center">Learning every day, building every day</h3>
