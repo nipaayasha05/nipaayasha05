@@ -1,3 +1,5 @@
+![Banner](https://ibb.co.com/bjZtywc4)
+
 <h1 align="center">Hi 👋, I'm Nipa</h1>
 <h3 align="center">Learning every day, building every day</h3>
 
