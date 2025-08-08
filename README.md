@@ -31,5 +31,5 @@ I'm a passionate Frontend Developer skilled in React.js, Tailwind CSS, Firebase,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipaayasha05&show_icons=true&locale=en" alt="nipaayasha05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipaayasha05&" alt="nipaayasha05" /></p>
+ 
 
