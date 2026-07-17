@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co.com/ycdKkC4V/Blue-and-Black-Modern-Developer-Linked-In-Banner-2.png)
 
-<h1 align="center">Hi 👋, I'm Nipa</h1>
+<h1 align="center">Hi 👋, I'm Ayasha</h1>
 <h3 align="center">Learning every day, building every day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipaayasha05&label=Profile%20views&color=0e75b6&style=flat" alt="nipaayasha05" /> </p>
