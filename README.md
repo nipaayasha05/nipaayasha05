@@ -18,10 +18,11 @@
 ## Current Activities  
 🌱 Currently learning TypeScript, Prisma ORM, and strengthening my skills through hands-on practice.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mstayashaakter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstayashaakter" height="30" width="40" /></a>
-</p>
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mstayashaakter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-url.com](https://mst-ayasha-akter.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_z3nrhsO3QY7gAkVs0MdBzIC5x1OSQzc/view?usp=drivesdk)
 
 ## 💻 Tech Stack
 
