@@ -51,9 +51,9 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipaayasha05&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=nipaayasha05&hide_border=true" />
-</p>
+</p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipaayasha05&" alt="nipaayasha05" /></p>
 
