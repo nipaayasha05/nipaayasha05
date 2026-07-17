@@ -44,6 +44,8 @@
 
 ### 🛠️ Tools & Platforms
 
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,vercel)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 <p align="center">
