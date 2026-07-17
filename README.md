@@ -35,7 +35,11 @@
 
 ### ⚙️ Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+### 🗄️ Database & ORM
+
+[![Database & ORM](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
 
