@@ -44,15 +44,16 @@
 
 ### 🛠️ Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=git,github,firebase,vercel)](https://skillicons.dev)
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nipaayasha05&show_icons=true&theme=default)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nipaayasha05&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipaayasha05&layout=compact&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipaayasha05&layout=compact)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipaayasha05&show_icons=true&locale=en&layout=compact" alt="nipaayasha05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipaayasha05&show_icons=true&locale=en" alt="nipaayasha05" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipaayasha05&hide_border=true" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipaayasha05&" alt="nipaayasha05" /></p>
 
