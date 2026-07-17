@@ -39,7 +39,7 @@
 
 ### 🛠️ Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=git,github,firebase,vercel,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,vercel)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipaayasha05&show_icons=true&locale=en&layout=compact" alt="nipaayasha05" /></p>
