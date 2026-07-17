@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/TqFmVKQw/github-banner1.png)
+![Banner](https://i.ibb.co.com/PzMRJgfB/Blue-and-Black-Modern-Developer-Linked-In-Banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Nipa</h1>
 <h3 align="center">Learning every day, building every day</h3>
