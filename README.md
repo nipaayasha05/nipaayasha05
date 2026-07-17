@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/PzMRJgfB/Blue-and-Black-Modern-Developer-Linked-In-Banner-1.png)
+![Banner](https://i.ibb.co.com/ycdKkC4V/Blue-and-Black-Modern-Developer-Linked-In-Banner-2.png)
 
 <h1 align="center">Hi 👋, I'm Nipa</h1>
 <h3 align="center">Learning every day, building every day</h3>
@@ -11,7 +11,7 @@
 
 - 👩‍💻 Frontend Developer with a growing interest in Full-Stack Development.
 - ⚛️ Building modern web applications with React.js, Next.js, TypeScript, Tailwind CSS.
-- 🚀 Experienced with Node.js, Express.js, Prisma ORM, PostgreSQL, MongoDB, and RESTful APIs.
+- 🚀 Exploring backend development with Node.js, Express.js, Prisma ORM, PostgreSQL, MongoDB, and RESTful APIs.
 - 💳 Interested in backend technologies, authentication, payment integration, and building scalable web applications.
 - 🌱 Passionate about learning new technologies and continuously improving my development skills.
   
